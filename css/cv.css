@@ -1,0 +1,49 @@
+html,body{
+	font-family: ff-meta-web-pro, sans-serif;
+font-style: normal;
+font-weight: 100;
+color: white;
+margin: 0;
+}
+
+body{
+	background-color: black;
+}
+header{
+	text-align: center;
+	background-color: #F3DA5C;
+	padding: 40px;
+
+}
+
+h1{
+	font-size: 90px;
+	color: black;
+}
+
+header img{
+
+	border-radius: 400px;
+	width: 300px;
+	border: 10px solid #000000;
+}
+
+.content{
+	max-width: auto;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+ul{
+
+	list-style: none;
+	margin-top:  10px;
+}
+
+footer{
+	text-align: center;
+	margin-top: 40px;
+	padding: 40px 20px;
+	background-color: lightgrey;
+	color: black;
+}
