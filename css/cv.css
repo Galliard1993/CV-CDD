@@ -2,36 +2,44 @@ html,body{
 	font-family: ff-meta-web-pro, sans-serif;
 font-style: normal;
 font-weight: 100;
-color: white;
-margin: 0;
+color: black;
+margin: 5px;
 }
 
 body{
-	background-color: black;
+	background-color: #F3DA5C;
 }
 header{
 	text-align: center;
-	background-color: #F3DA5C;
+	background-color: black;
 	padding: 40px;
 
 }
 
 h1{
 	font-size: 90px;
-	color: black;
+	color: white;
 }
 
 header img{
 
 	border-radius: 400px;
 	width: 300px;
-	border: 10px solid #000000;
+	border: 10px solid white;
 }
 
 .content{
 	max-width: auto;
 	margin: 0 auto;
 	padding: 0 20px;
+}
+
+.informacion{
+	align-content: right;
+}
+
+.formacion{
+	align-content: left;
 }
 
 ul{
@@ -44,6 +52,7 @@ footer{
 	text-align: center;
 	margin-top: 40px;
 	padding: 40px 20px;
-	background-color: lightgrey;
-	color: black;
+	background-color: black;
+	color: white;
+
 }
